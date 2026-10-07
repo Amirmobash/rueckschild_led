@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rückschild LED</string>
+    <string name="settings_title">RÜCKSCHILD LED</string>
+    <string name="settings_subtitle">Pixel-Laufschrift für ein altes Android-Tablet</string>
+    <string name="settings_hint">Zurück-Taste oder 1,5 Sekunden auf die Anzeige drücken = Einstellungen</string>
+
+    <string name="message_label">Text</string>
+    <string name="message_hint">z. B. ARBEIT RUFT! BITTE LINKS VORBEI</string>
+    <string name="default_message">ARBEIT RUFT! BITTE LINKS VORBEI</string>
+
+    <string name="text_color_label">Textfarbe</string>
+    <string name="text_color_orange">Leuchtendes Orange</string>
+    <string name="text_color_red">Rot</string>
+    <string name="speed_label">Geschwindigkeit</string>
+    <string name="text_size_label">Textgröße</string>
+    <string name="pixel_size_label">Pixelgröße</string>
+
+    <string name="uppercase_label">Text automatisch in GROSSBUCHSTABEN</string>
+    <string name="brightness_label">Maximale Bildschirmhelligkeit</string>
+    <string name="blink_arrow_label">Riesiger blinkender roter Linkspfeil</string>
+    <string name="landscape_label">Anzeige zusätzlich um 90° drehen (Querformat)</string>
+    <string name="rotate_label">Anzeige zusätzlich um 180° drehen</string>
+
+    <string name="start_button">ANZEIGE STARTEN</string>
+    <string name="about_button">ÜBER / KONTAKT</string>
+
+    <string name="about_title">ÜBER DEN ENTWICKLER</string>
+    <string name="about_description">Eine kleine, gut sichtbare LED-Laufschrift für ältere Android-Tablets.</string>
+    <string name="about_creator_label">Entwickelt von</string>
+    <string name="about_creator_name">Amir Mobasher</string>
+    <string name="about_version">Version 1.3.0</string>
+    <string name="about_github">GitHub – amirmobash</string>
+    <string name="about_linkedin">LinkedIn – Amir Mobasher</string>
+    <string name="about_book">Buch bei Amazon ansehen</string>
+    <string name="about_back">ZURÜCK</string>
+    <string name="link_error">Link konnte auf diesem Gerät nicht geöffnet werden.</string>
+</resources>
