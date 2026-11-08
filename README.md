@@ -1,5 +1,11 @@
 # Rückschild LED
 
+
+<p align="center"><img src="docs/images/android-tablet-led-scrolling-backpack-display.svg" alt="Android tablet LED style scrolling sign for wearable backpack" width="960"/></p>
+
+<sub>Illustrative overview; not a verified device photograph, measured CAD export, or tested safety design.</sub>
+
+
 A lightweight Android LED-style scrolling sign for old tablets, designed for a tablet mounted on a backpack or bag.
 
 **Developer / Entwickler:** Amir Mobasher  
